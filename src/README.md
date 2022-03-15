@@ -2,6 +2,7 @@ Barbu Maria-Alexandra, 325CD
 Tema1 - OOP
 ----------------------------------------------------------------------
 Am facut urmatoarele adaugiri in clasele din schelet:
+
     * clasa Season - "Double average_ratings" = media aritmetica a
                       ratingurilor unui sezon
     * clasa ActorInputData - "public Double media_ratingurilor" =
@@ -216,11 +217,11 @@ Am implementat urmatoarele noi clase:
         din comanda, apoi o alta lista cu toate videourile nevizualizate
         din genul cerut, in final sorteaza lista dupa rating.
 
-        In clasa Main am parcurs lista de comenzi din input, si, in functie
-    de parametrii actiunii respective, am apelat functia corespunzatoare
-    dintr-una din clasele create si mentionate mai sus. Mesajul intors de
-    fiecare actiune a fost adaugat in "arrayResult" prin intermediul
-    functiei "writeFile".
+In clasa Main am parcurs lista de comenzi din input, si, in functie
+de parametrii actiunii respective, am apelat functia corespunzatoare
+dintr-una din clasele create si mentionate mai sus. Mesajul intors de
+fiecare actiune a fost adaugat in "arrayResult" prin intermediul
+functiei "writeFile".
 
 
 
